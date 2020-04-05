@@ -28,8 +28,8 @@ Steps to set up
 7) To run everything, first: 
     * From cmd line, change working directory to ProfileService, and use command python api.py
     * After that, open python shell (just use command python). Then run the next few commands in the shell:
-        >>> from api import init_db
-        >>> init_db()
+        * from api import init_db
+        * init_db()
     This initalizes the database.
     * Use postman or curl to make requests
 
